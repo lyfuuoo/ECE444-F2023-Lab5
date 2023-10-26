@@ -25,3 +25,6 @@ Cons:
 
 ## Templates, Views and Show Entries 
 ![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/7f70c2dc-6588-41be-94d4-c75ccaf46d86)
+
+## Add Some Style and javascript section, skip deployment section
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/db5b3703-240d-4c29-b2a3-b44a593014a5)
