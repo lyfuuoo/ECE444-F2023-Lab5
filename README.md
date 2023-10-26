@@ -23,3 +23,5 @@ Cons:
 ## Database Development
 ![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/5d7b43e0-918e-4186-b139-cbfe24ada3ea)
 
+## Templates, Views and Show Entries 
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/7f70c2dc-6588-41be-94d4-c75ccaf46d86)
