@@ -28,3 +28,13 @@ Cons:
 
 ## Add Some Style and javascript section, skip deployment section
 ![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/db5b3703-240d-4c29-b2a3-b44a593014a5)
+
+## search page 
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/6d6bd77e-8efe-4a26-bf56-7cf1abc5bc29)
+
+## Linting and Code Formatting
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/cfbc5e12-69d3-4fb5-8ed1-59ef1b526b93)
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/c2555178-b821-4bf5-9871-533f207e3057)
+
+# final Website
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/0b94e11a-035d-48fc-8089-0123fa6df172)
