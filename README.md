@@ -38,3 +38,7 @@ Cons:
 
 # final Website
 ![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/0b94e11a-035d-48fc-8089-0123fa6df172)
+
+# Section 2 
+[Link for adding test cases to group project](https://github.com/lyfuuoo/Group14-5-Guys/blob/5a4dba7dfc289f0b74cd90b67f511149041011e8/backend/tests/test_backend.py#L11-L22)
+![image](https://github.com/lyfuuoo/ECE444-F2023-Lab5/assets/74110890/60cdfa90-33fd-4142-9f0e-fdebdd684adb)
